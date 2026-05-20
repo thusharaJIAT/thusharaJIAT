@@ -9,11 +9,17 @@
  <a href="https://git.io/typing-svg">
   <img width="76%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=478be6&center=true&vCenter=true&width=700&lines=I'm+an+undergraduate+student+at+IIC+University;Full+Stack+Software+Engineer;Building+Scalable+Web+Systems+%26+IoT+Enthusiast;Welcome+to+my+Profile!..." alt="Typing SVG" />
 </a>
+
+</p>
+
+<p align="center">
 <h3 align="center">A passionate Final-Year Software Engineering Candidate from Sri Lanka</h3>
 <br>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=thusharaJIAT&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 ### 👨‍💻 About Me
