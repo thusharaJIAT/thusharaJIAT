@@ -1,9 +1,29 @@
-<p  align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=I'm+an+undergraduate+student+at+IIC+University;Full+Stack+Software+Engineer;Building+Scalable+Web+Systems+%26+IoT+Enthusiast;Welcome+to+my+Profile!..." alt="Typing SVG" /></a>
+<h1 align="center">I'm <a href="https://github.com/thusharaJIAT">Thushara Jayanga<a>
+ <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
+</h1>
+
+<p align="center">
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+ <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="display:inline;">
+  
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=478be6&center=true&vCenter=true&width=700&lines=I'm+an+undergraduate+student+at+IIC+University;Full+Stack+Software+Engineer;Building+Scalable+Web+Systems+%26+IoT+Enthusiast;Welcome+to+my+Profile!..." alt="Typing SVG" />
+</a>
+<h3 align="center">A passionate Final-Year Software Engineering Candidate from Sri Lanka</h3>
 <br>
-<br>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=thusharaJIAT&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
+### 👨‍💻 About Me
+
+- 🎓 I'm currently studying **Software Engineering** at **Java Institute for Advanced Technology**.
+- 🌱 I’m currently learning **Spring Boot** and **IoT Development**.
+- 💬 Ask me about **Java, Full Stack Development, and IoT **.
+- 📫 How to reach me: **thusharajayanga1@gmail.com**
+
+---
 
 ## Languages, Frameworks, and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 <br>
