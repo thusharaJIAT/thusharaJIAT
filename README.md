@@ -11,11 +11,9 @@
 </a>
 
 </p>
-
 <p align="center">
 <h3 align="center">A passionate Final-Year Software Engineering Candidate from Sri Lanka</h3>
 <br>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=thusharaJIAT&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
