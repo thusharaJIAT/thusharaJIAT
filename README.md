@@ -1,5 +1,5 @@
 <h1 align="center">I'm <a href="https://github.com/thusharaJIAT">Thushara Jayanga<a>
- <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
+ <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/>
 </h1>
 
 <p align="center">
@@ -14,8 +14,12 @@
 <p align="center">
 <h3 align="center">A passionate Final-Year Software Engineering Candidate from Sri Lanka</h3>
 <br>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=thusharaJIAT&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<p align="right">
+  <img src="https://img.shields.io/github/followers/thusharaJIAT?style=social" alt="GitHub followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/thusharaJIAT?style=social" alt="GitHub stars" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=thusharaJIAT&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
@@ -29,36 +33,64 @@
 
 ---
 
-## Languages, Frameworks, and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
+### ⚡ My Tech Arsenal
+
+<p align="left">
+  <strong>Frontend & Mobile:</strong>
+  <br>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,flutter,dart" alt="Frontend and Mobile" />
+  </a>
+</p>
+
+<p align="left">
+  <strong>Backend & Databases:</strong>
+  <br>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,c,cpp,python,php,laravel,nodejs,mysql,firebase" alt="Backend" />
+  </a>
+</p>
+
+<p align="left">
+  <strong>Tools & Others:</strong><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="48" height="48" />
+    <img src="https://skillicons.dev/icons?i=idea,androidstudio,arduino,vscode,gradle,postman,vercel,linux,docker,git,github,discord" alt="Tools" />
+  </a>
+</p>
+
+<p align="left">
+  <strong>AI Tools (AI-Assisted Development):</strong>
+  <br>
+  <br>
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/00A67E" alt="ChatGPT" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubcopilot/ffffff" alt="Copilot" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cursor/ffffff" alt="Cursor" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/google/4285F4" alt="Google Antigravity" width="48" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/thushara-jayanga-b3bb73390")" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+ <a href="[YOUR_FACEBOOK_URL](https://discord.com/channels/_thusharaj)" target="blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+</p>
+
+---
+
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,php,py,c,cpp,nodejs,kotlin"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js,jquery"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Framework:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=laravel,dotnet,bootstrap,tailwind,hibernate,spring,flutter"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,gradle,postman,vercel"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,firebase,sqlite"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,gradle,arduino,maven,npm,regex,figma,powershell,stackoverflow,gcp,discord,gmail"/></td>
-    </tr>
-</table>
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<h2 align='center'>Thank You❤!!!!!</h2>
 <br>
+
