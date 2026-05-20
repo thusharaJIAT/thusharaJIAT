@@ -57,7 +57,7 @@
   <strong>Tools & Others:</strong><br><br>
   <a href="https://skillicons.dev">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="48" height="48" />
-    <img src="https://skillicons.dev/icons?i=idea,androidstudio,arduino,vscode,gradle,postman,vercel,linux,docker,git,github,discord" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=idea,androidstudio,arduino,vscode,gradle,postman,vercel,linux,docker,git,github" alt="Tools" />
   </a>
 </p>
 
@@ -77,7 +77,7 @@
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/thushara-jayanga-b3bb73390"" target="blank">
+  <a href="https://www.linkedin.com/in/thushara-jayanga-b3bb73390" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
  <a href="https://discord.com/channels/_thusharaj" target="blank">
