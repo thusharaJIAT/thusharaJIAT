@@ -87,10 +87,10 @@
 
 ---
 
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<h3 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h3>
 <br>
 <p align='center'>
 <img src="https://github.com/thusharaJIAT/thusharaJIAT/blob/main/Bye%20Robot.gif?raw=true" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <h2 align='center'>Thank You❤!!!!!</h2>
-<br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
