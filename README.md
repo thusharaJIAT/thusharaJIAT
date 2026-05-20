@@ -68,8 +68,8 @@
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="48" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/openai/00A67E" alt="ChatGPT" width="48" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/githubcopilot/ffffff" alt="Copilot" width="48" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cursor/ffffff" alt="Cursor" width="48" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/google/4285F4" alt="Google Antigravity" width="48" />
+  <img src="https://cdn.simpleicons.org/google/4285F4" alt="Google Antigravity" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cursor/ffffff" alt="Cursor" width="48" />
 </p>
 
 ---
