@@ -77,10 +77,10 @@
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/thushara-jayanga-b3bb73390")" target="blank">
+  <a href="https://www.linkedin.com/in/thushara-jayanga-b3bb73390"" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
- <a href="[YOUR_FACEBOOK_URL](https://discord.com/channels/_thusharaj)" target="blank">
+ <a href="https://discord.com/channels/_thusharaj" target="blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
 </p>
