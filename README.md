@@ -28,7 +28,7 @@
 
 - 🎓 I'm currently studying **Software Engineering** at **Java Institute for Advanced Technology**.
 - 🌱 I’m currently learning **Spring Boot** and **IoT Development**.
-- 💬 Ask me about **Java, Full Stack Development, and IoT **.
+- 💬 Ask me about **Java, Full Stack Development, and IoT**.
 - 📫 How to reach me: **thusharajayanga1@gmail.com**
 
 ---
@@ -57,7 +57,7 @@
   <strong>Tools & Others:</strong><br><br>
   <a href="https://skillicons.dev">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="48" height="48" />
-    <img src="https://skillicons.dev/icons?i=idea,androidstudio,arduino,vscode,gradle,postman,vercel,linux,docker,git,github" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=idea,androidstudio,clion,arduino,phpstorm,vscode,gradle,cmake,postman,vercel,linux,docker,git,github" alt="Tools" />
   </a>
 </p>
 
@@ -66,7 +66,6 @@
   <br>
   <br>
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="48" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/00A67E" alt="ChatGPT" width="48" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/githubcopilot/ffffff" alt="Copilot" width="48" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/google/4285F4" alt="Google Antigravity" width="48" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cursor/ffffff" alt="Cursor" width="48" />
